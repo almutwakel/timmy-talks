@@ -1,0 +1,153 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "how are you",
+        "is anyone there?",
+        "hello",
+        "good day"
+      ],
+      "responses": [
+        "hello",
+        "good to see you",
+        "hi there"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "see you later",
+        "goodbye"
+      ],
+      "responses": [
+        "see you later",
+        "have a nice day",
+        "bye!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "that's helpful"
+      ],
+      "responses": [
+        "happy to help!",
+        "any time!",
+        "my pleasure"
+      ]
+    },
+    {
+      "tag": "timmy",
+      "patterns": [
+        "i love timmy",
+        "you",
+        "smart"
+      ],
+      "responses": [
+        "thanks!",
+        "thank you",
+        "love you too"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "whats your name?"
+      ],
+      "responses": [
+        "my name is timmy"
+      ]
+    },
+    {
+      "tag": "colbe",
+      "patterns": [
+        "thoughts on colbe",
+        "opinion on colbe"
+      ],
+      "responses": [
+        "colbe is a cool guy",
+        "colbe is a nice dude"
+      ]
+    },
+    {
+      "tag": "colbe",
+      "patterns": [
+        "thoughts on colbe",
+        "opinion on colbe"
+      ],
+      "responses": [
+        "colbe is a cool guy",
+        "colbe is a nice dude"
+      ]
+    },
+    {
+      "tag": "neil",
+      "patterns": [
+        "thoughts on neil",
+        "opinion on neil"
+      ],
+      "responses": [
+        "neil is a cool guy",
+        "neil is inspirational"
+      ]
+    },
+    {
+      "tag": "druhin",
+      "patterns": [
+        "do you like druhin"
+      ],
+      "responses": [
+        "druhin is funny"
+      ]
+    },
+    {
+      "tag": "lol",
+      "patterns": [
+        "lol", "beast", "yo"
+      ],
+      "responses": [
+        "lol"
+      ]
+    },
+    {
+      "tag": "act",
+      "patterns": [
+        "what are you doing"
+      ],
+      "responses": [
+        "thinking"
+      ]
+    },
+    {
+      "tag": "fun",
+      "patterns": [
+        "play"
+      ],
+      "responses": [
+        "sure"
+      ]
+    },
+    {
+      "tag": "8ball",
+      "patterns": [
+        "should i",
+        "will you",
+        "is it possible",
+        "can it",
+        "ever"
+      ],
+      "responses": [
+        "yes",
+        "no",
+        "maybe",
+        "possibly",
+        "never"
+      ]
+    }
+  ]
+}

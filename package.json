@@ -1,0 +1,8 @@
+{
+“name”: “Timmy Bot”,
+“version”: “1.0.0”,
+“description”: “AI chat bot”,
+“main”: “bot.js”,
+“author”: “Almutwakel Hassan”,
+“dependencies”: {}
+}
